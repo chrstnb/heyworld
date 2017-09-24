@@ -14,4 +14,3 @@ cool things with processing and some programming basics too. There are newer
 editions if you're interested in buying a copy [here](https://www.amazon.com/gp/product/1457187086/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1457187086&linkCode=as2&tag=processing09-20&linkId=JEJC22CTQ5ZF4ZYO)
 and [here's](http://cmuems.com/resources/getting_started_with_processing.pdf) a
 pdf of an earlier edition.
-<script src="https://gist.github.com/chrstnb/aac79def0b3ab63bc5cadc249fdb4901.js"></script>
